@@ -6,7 +6,7 @@ A Java utility for generating integer arrays and persisting them to plain-text f
 
 ## About
 
-Written in Java 11, this project provides three standalone methods for working with integer arrays and flat files. `generateArray` produces a random integer array of a given size, `writeArrayToFile` serializes an array to a comma-separated text file with 10 values per line, and `readArray` parses that file format back into an array. The included file `input1000000BestCase.txt` is a pre-generated sequential array of one million integers produced with these utilities.
+Written in Java 21, this project provides three standalone methods for working with integer arrays and flat files. `generateArray` produces a random integer array of a given size, `writeArrayToFile` serializes an array to a comma-separated text file with 10 values per line, and `readArray` parses that file format back into an array. The included file `input1000000BestCase.txt` is a pre-generated sequential array of one million integers produced with these utilities.
 
 ## Usage
 
